@@ -1,7 +1,7 @@
 // La liste de tes jeux. C'est ici que tu devras ajouter tes 300 lignes.
 const games = [
     { title: "2048", image: "icones/2048.png", url: "game/2048.html" },
-    { title: "Space Invaders", image: "jeux/jeu-2/thumb.jpg", url: "jeux/jeu-2/index.html" },
+    { title: "8 ball classic", image: "icones/8ball.png", url: "game/8ball.html" },
     { title: "Tetris Retro", image: "jeux/jeu-3/thumb.jpg", url: "jeux/jeu-3/index.html" },
     // Ajoute tes autres jeux en dessous en respectant ce format :
     // { title: "Nom du jeu", image: "chemin/image", url: "chemin/fichier.html" },
