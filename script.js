@@ -2,7 +2,7 @@
 const games = [
     { title: "2048", image: "icones/2048.png", url: "game/2048.html" },
     { title: "8 ball classic", image: "icones/8ball.png", url: "game/8ball.html" },
-    { title: "Tetris Retro", image: "jeux/jeu-3/thumb.jpg", url: "jeux/jeu-3/index.html" },
+    { title: "Stickman Hook", image: "icones/stickmanhook.png", url: "game/stickmanhook.html" },
     // Ajoute tes autres jeux en dessous en respectant ce format :
     // { title: "Nom du jeu", image: "chemin/image", url: "chemin/fichier.html" },
 ];
