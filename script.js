@@ -3,6 +3,7 @@ const games = [
     { title: "2048", image: "icones/2048.png", url: "game/2048.html" },
     { title: "8 ball classic", image: "icones/8ball.png", url: "game/8ball.html" },
     { title: "Stickman Hook", image: "icones/stickmanhook.png", url: "game/stickmanhook.html" },
+    { title: "Candy Crush", image: "icones/candycrush.png", url: "game/candycrush.html" }
     // Ajoute tes autres jeux en dessous en respectant ce format :
     // { title: "Nom du jeu", image: "chemin/image", url: "chemin/fichier.html" },
 ];
