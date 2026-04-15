@@ -5,6 +5,7 @@ const games = [
     { title: "Stickman Hook", image: "icones/stickmanhook.png", url: "game/stickmanhook.html" },
     { title: "Candy Crush", image: "icones/candycrush.png", url: "game/candycrush.html" },
     { title: "Drive Mad", image: "icones/drivemad.png", url: "game/drivemad.html" },
+    { title: "WebCraft", image: "icones/webcraft.png", url: "game/webcraft.html" },
     // Ajoute tes autres jeux en dessous en respectant ce format :
     // { title: "Nom du jeu", image: "chemin/image", url: "chemin/fichier.html" },
 ];
